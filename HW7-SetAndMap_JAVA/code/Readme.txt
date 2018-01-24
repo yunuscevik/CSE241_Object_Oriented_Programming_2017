@@ -10,6 +10,6 @@ GTUMap<Character,Integer> map2= GTUMap<>();
 intersection metoduna parametre olarak gönderdiğimizde kendisi otomatik cast ile işlem yapmaktadır.
 
 
-Javadoc: "141044080/141044080_HW7/dist/javadoc" klasörünün altındadır. index.html dosyasını açarak JavaDOc dosyasının açılış sayfasını
+Javadoc: "code/141044080_HW7/dist/javadoc" klasörünün altındadır. index.html dosyasını açarak JavaDOc dosyasının açılış sayfasını
 açabilirsiniz.
 
