@@ -1,5 +1,5 @@
 Cell Class'ı içinde bulunan operatorlerin çalışıp çalışmadığını test etmek için aşağıda belirtilen
-141044080 klasörü içine mainCell.cpp dosyası oluşturulur. daha sonra Makefile dosyası aşağıdaki gibi güncellendiği taktirde
+code klasörü içine mainCell.cpp dosyası oluşturulur. daha sonra Makefile dosyası aşağıdaki gibi güncellendiği taktirde
 sadece Cell Class'ına ait operatorler çalışacaktır.
 
 Note: Moodle de bulunan test dosyaları ile test edilmiş olup screen shotları mevcuttur. Ekstradan r7 ve r8 adlı test dosyaları kendi
