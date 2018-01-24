@@ -1,0 +1,22 @@
+Undo_PvP_4x4.txt
+4
+4
+Player1&Player2
+Player1
+a b c d 
+. . . . 
+X . . O 
+X O X O 
+X X O O 
+a b c d 
+10
+3 0 X Player1
+3 3 O Player2
+2 0 X Player1
+2 3 O Player2
+1 0 X Player1
+1 3 O Player2
+3 1 X Player1
+3 2 O Player2
+2 2 X Player1
+2 1 O Player2

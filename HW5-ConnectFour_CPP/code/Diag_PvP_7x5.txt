@@ -1,0 +1,12 @@
+Diag_PvP_7x5.txt
+5
+7
+Player1&Player2
+Player2
+a b c d e f g 
+. . . . . . . 
+. . . . X . . 
+X . . O O X . 
+O . . O X O X 
+X . . O X O X 
+a b c d e f g 

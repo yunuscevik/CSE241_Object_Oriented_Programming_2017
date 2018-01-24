@@ -1,0 +1,11 @@
+PvP_6X4.txt
+4
+6
+Player1&Player2
+Player1
+a b c d e f 
+O . . O . O 
+O . O X X X 
+O O O X X O 
+X X X O X X 
+a b c d e f 
