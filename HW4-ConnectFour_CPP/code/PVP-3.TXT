@@ -1,0 +1,18 @@
+2.TXT
+10
+13
+Player1&Player2
+Player1
+8
+a b c d e f g h i j k l m 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * * * * * * * * *       
+X * O * * * * * * * *     
+X O X * * * * * * * * *   
+X O O * * * * * * * * * * 
+a b c d e f g h i j k l m 

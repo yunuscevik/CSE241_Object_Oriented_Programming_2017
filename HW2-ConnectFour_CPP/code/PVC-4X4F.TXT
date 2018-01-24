@@ -1,0 +1,10 @@
+PVC-4X4F.TXT
+4
+Player&Computer
+Player1
+abcd
+..X.
+..O.
+X.OO
+X.XO
+abcd

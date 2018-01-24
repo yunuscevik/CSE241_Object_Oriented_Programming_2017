@@ -1,0 +1,18 @@
+PVC-1.TXT
+10
+13
+Player&Computer
+Player
+30
+a b c d e f g h i j k l m 
+    * *                   
+    * * * * * *           
+    * * * * * *           
+* * * * * * * *           
+* * * * * * * *           
+* * X * * * * *           
+* O O O * * * X * *       
+* X X X * * * O O * *     
+* X O X * O X O O X O *   
+* X O X X X O O X O X * O 
+a b c d e f g h i j k l m 

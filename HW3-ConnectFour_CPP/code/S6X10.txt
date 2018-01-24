@@ -1,0 +1,18 @@
+S6X10.txt
+10
+6
+Player1&Player2
+Player1
+10
+a b c d e f 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+. . . . . . 
+O . O . . . 
+O . X X . . 
+O O X X X . 
+a b c d e f 
